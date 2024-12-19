@@ -18,8 +18,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Carolinazeved">
-        <img src="https://github.com/Carolinazeved.png" width="100px;" alt="Foto do Colaborador 1"/>
+      <a href="https://github.com/Licalado">
         <br />
       
   </tr>
